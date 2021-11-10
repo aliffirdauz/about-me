@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliffirdauz
 - 👀 I’m interested in artificial intelligent and mixed reality
-- 🌱 I’m currently learning informatics specialist at Bandung National Institut of Technology
+- 🌱 I’m currently learning at Bandung National Institut of Technology for informatics specialist 
 - 💞️ I’m looking to collaborate on arduino project, beginners programming projects
 - 📫 How to reach me on instagram : @manusialif, and email     : alifmuhammadfirdaus1@gmail.com
 
